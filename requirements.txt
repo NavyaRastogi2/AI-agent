@@ -1,0 +1,10 @@
+langchain
+yfinance 
+pydantic
+dotenv
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+anthropic
