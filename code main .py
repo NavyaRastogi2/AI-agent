@@ -3,7 +3,7 @@ import feedparser
 from openai import OpenAI
 
 
-client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
+client = OpenAI(api_key="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")
 
 st.title("🇮🇳 Indian Stock Market News Chatbot")
 
